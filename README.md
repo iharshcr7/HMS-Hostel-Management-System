@@ -92,6 +92,7 @@ Before you begin, ensure you have met the following requirements:
      ```
 
 ---
+<img width="655" height="709" alt="image" src="https://github.com/user-attachments/assets/06e9c89d-0ae3-4eb1-9605-5b7e18ac793c" />
 
 License
 This project is open-source and available under the MIT License.
